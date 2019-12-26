@@ -6,6 +6,9 @@ Running Nakama in a Digital Ocean droplet is a great way to develop using Nakama
 
 You can install Nakama on your Digital Ocean droplet using the [Docker installation guide](install-docker-quickstart.md) but first there are some things that need to be configured on the droplet.
 
+## Use a pre-configured droplet available at the DigitalOcean Marketplace
+Available at https://marketplace.digitalocean.com/apps/nakama
+
 ## Droplet configuration
 
 Your droplet should have the following configuration:
